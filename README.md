@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>PyTorch VAE</b><br>
+  <b>Modified from [PyTorch VAE](https://github.com/AntixK/PyTorch-VAE)</b><br>
 </h1>
 
 <p align="center">
